@@ -21,7 +21,7 @@ public class ArraysBinarySearch {
 		Arrays.sort(s,new MyComparator10());
 		System.out.println(binarySearch(s,"Z",new MyComparator10()));
 		System.out.println(binarySearch(s,"S",new MyComparator10()));
-		System.out.println(binarySearch(s,"N"));
+		//System.out.println(binarySearch(s,"N"));
 		
 
 	}

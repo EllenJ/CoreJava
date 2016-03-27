@@ -8,6 +8,8 @@ import java.util.Set;
 import javax.swing.text.html.HTMLDocument.Iterator;
 
 public class HashMapDemo {
+	private static final String Entry = null;
+
 	public static void main(String[] args) {
 		HashMap m = new HashMap();
 		m.put("chiranjeevi", 700);
@@ -23,9 +25,9 @@ System.out.println(c);
 Set s1 =m.entrySet();
 System.out.println(s1);
 Iterator itr = (Iterator) s1.iterator();
-while((itr.hasNext())
+while((((java.util.Iterator) itr).hasNext())
 {
-	Map.Entry m1=itr.next();
+	Map(Entry) m1=itr.next();
 	System.out.println(m1.getKey()+ "...." +m1.getValue());
 	if(m1.getKey().equals("nagarjuna"))
 	{

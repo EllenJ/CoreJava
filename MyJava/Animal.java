@@ -19,6 +19,12 @@ public class Animal {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Cat c= new Cat();
+		Dog d= new Dog();
+		d.speaking();
+		c.speaking();
+		c.eating();
+		d.eating();
 		
 		
 

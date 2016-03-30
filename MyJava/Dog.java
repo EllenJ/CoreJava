@@ -3,7 +3,7 @@ package MyJava;
 public class Dog extends Animal {
 
 	@Override
-	protected void eating() {
+	public void eating() {
 		// TODO Auto-generated method stub
 		super.eating();
 	}

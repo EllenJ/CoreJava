@@ -11,7 +11,7 @@ public class Cat extends Animal{
 	@Override
 	public void speaking() {
 		// TODO Auto-generated method stub
-		super.speaking();
+		System.out.println("cat speaks miaw!");
 	}
 	
 }

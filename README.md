@@ -1,4 +1,10 @@
 # CoreJavag
 fdgdfgdfgdsfdgf
-kjhjjnjn
-server added to it
+kjhjjnjsdfffd
+
+
+
+
+
+
+gfd
